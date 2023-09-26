@@ -2,7 +2,7 @@
 
 # Alzheimer's Disease Research.
 
-This repository contains the code and analysis for Alzheimer's disease research, including data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning using various algorithms.
+This repository contains the basic code and analysis for Alzheimer's disease research, including data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning using various algorithms.
 
 ## Dataset
 
